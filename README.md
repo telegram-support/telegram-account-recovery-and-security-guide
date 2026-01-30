@@ -8,7 +8,7 @@ This toolkit is designed for developers to diagnose issues with Telegram's authe
 - **Security Audit:** Check your current active sessions and 2FA status.
 
 ## 📖 Documentation
-For a full guide on handling restricted accounts and bypassing common API errors, please refer to the **[Extended Documentation & Wiki](KENDİ_SİTE_LİNKİN)**.
+For a full guide on handling restricted accounts and bypassing common API errors, please refer to the **[Extended Documentation & Wiki]([https://telegram.org/support]**.
 
 ## ⚠️ Requirements
 Install the necessary dependencies before running the debugger:
